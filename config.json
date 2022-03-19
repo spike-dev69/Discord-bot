@@ -1,11 +1,11 @@
 {
     "client": {
         "prefix": ">",
-        "token": "OTQ0NDY3NjExMjM0NzM0MTgx.YhCCAQ.ITn7c_9TM_XiQ009vuJGOaLwDAg"
+        "token": "YOUR BOT TOKEN"
     },
 
     "data": {
-        "guildId": "944468491430400050",
-        "clientId": "944467611234734181"
+        "guildId": "GuildId",
+        "clientId": "Bot's id"
     }
 }
